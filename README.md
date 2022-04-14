@@ -1,2 +1,2 @@
 # Python for DH 
-First try in a new UNI
+This repository contains "Python for DH" homework assignments at ITMO University
